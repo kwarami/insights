@@ -1,5 +1,5 @@
 app_name = "insights"
-app_title = "Frappe Insights"
+app_title = "VUE"
 app_publisher = "Frappe Technologies Pvt. Ltd."
 app_description = "Powerful Reporting Tool for Frappe Apps"
 app_icon = "octicon octicon-file-directory"
@@ -14,7 +14,7 @@ add_to_apps_screen = [
     {
         "name": "insights",
         "logo": "/assets/insights/frontend/insights-logo.png",
-        "title": "Insights",
+        "title": "VUE",
         "route": "/insights",
         "has_permission": "insights.permissions.check_app_permission",
     }
